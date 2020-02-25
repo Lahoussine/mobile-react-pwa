@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mobile-react-pwa/static/css/main.eee32b30.chunk.css",
+    "main.css": "/mobile-react-pwa/static/css/main.888b2278.chunk.css",
     "main.js": "/mobile-react-pwa/static/js/main.1ebb18bf.chunk.js",
     "main.js.map": "/mobile-react-pwa/static/js/main.1ebb18bf.chunk.js.map",
     "runtime-main.js": "/mobile-react-pwa/static/js/runtime-main.5e94bfaa.js",
@@ -8,16 +8,16 @@
     "static/js/2.af21fa59.chunk.js": "/mobile-react-pwa/static/js/2.af21fa59.chunk.js",
     "static/js/2.af21fa59.chunk.js.map": "/mobile-react-pwa/static/js/2.af21fa59.chunk.js.map",
     "index.html": "/mobile-react-pwa/index.html",
-    "precache-manifest.cf75ad47ea119c4ab6cc21d912146ecc.js": "/mobile-react-pwa/precache-manifest.cf75ad47ea119c4ab6cc21d912146ecc.js",
+    "precache-manifest.33f522d39b008819816e43b712748ec2.js": "/mobile-react-pwa/precache-manifest.33f522d39b008819816e43b712748ec2.js",
     "service-worker.js": "/mobile-react-pwa/service-worker.js",
-    "static/css/main.eee32b30.chunk.css.map": "/mobile-react-pwa/static/css/main.eee32b30.chunk.css.map",
+    "static/css/main.888b2278.chunk.css.map": "/mobile-react-pwa/static/css/main.888b2278.chunk.css.map",
     "static/js/2.af21fa59.chunk.js.LICENSE.txt": "/mobile-react-pwa/static/js/2.af21fa59.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/mobile-react-pwa/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5e94bfaa.js",
     "static/js/2.af21fa59.chunk.js",
-    "static/css/main.eee32b30.chunk.css",
+    "static/css/main.888b2278.chunk.css",
     "static/js/main.1ebb18bf.chunk.js"
   ]
 }
