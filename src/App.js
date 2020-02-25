@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import hamburger from './icons8-menu-64.png'
 
 function App() {
   return (
@@ -19,6 +20,15 @@ function App() {
           Learn React
         </a>
       </header>
+      <body className="App-body">
+        <div className="nav">
+          <img src={hamburger}></img>
+          <div className="title">RUNNING APP</div>
+        </div>
+        <div className="middle"></div>
+        <div className="foot"></div>
+
+      </body>
     </div>
   );
 }

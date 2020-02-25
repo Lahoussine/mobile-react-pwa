@@ -14,14 +14,35 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color:seagreen;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+.App-body {
+  background-color:  #282c34;
+  min-height: 100vh; 
+}
+.App-body image{
+  width: 64px;
+  height: 64px;
+}
+.nav{
+  background-color:  #282c34;
+  min-height: 100px ; 
+}
+.middle{
+  background-color:  orangered;
+  height: 200px;
+}
+
+.foot{
+  background-color:  magenta;
+  height: 100px;
 }
 
 .App-link {
@@ -35,4 +56,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.title{
+  color: #0D79F2;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
